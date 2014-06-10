@@ -1,7 +1,3 @@
-## License
-
-MIT
-=======
 generator-modular-angular
 =========================
 
