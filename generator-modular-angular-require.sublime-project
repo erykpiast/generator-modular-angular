@@ -1,0 +1,35 @@
+{
+    "folders":
+    [
+        {
+            "file_exclude_patterns":
+            [
+                "*~",
+                "*~~",
+                "*.jpg",
+                "*.png",
+                "*.pdf",
+                "*.odt",
+                "*.gif",
+                "*.ico",
+                "*.project",
+                "*.sublime-project",
+                "*.sublime-workspace",
+                "*.txt",
+                "*.rb",
+                "*.sh",
+                ".*"
+            ],
+            "folder_exclude_patterns":
+            [
+                "icons",
+                ".sass-cache",
+                ".crt",
+                ".tmp",
+                "mockup-v1"
+            ],
+            "name": "generator-modular-angular-require",
+            "path": "/home/eryk/generator-modular-angular"
+        }
+    ]
+}

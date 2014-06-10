@@ -1,0 +1,8 @@
+################################# Renamer Log ##################################
+# File : 3 files
+# Time : Sun, 08 Jun 2014 18:29:01
+################################################################################
+
+view.controller.js is converted to subview.controller.js
+view.module.js is converted to subview.module.js
+view.template.js is converted to subview.template.js
